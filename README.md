@@ -1,14 +1,14 @@
 # Marketing Analyst
 
 ### Education
-- Masters in Marketing Analyst @ Hult Business School
+- MSc in Marketing and Analytics at Hult International Business School
 - MBA in Marketing 
-- Bachelors in 
-
-### Work Experince
-Marketing @ 
-- work in short
 
 ### Projects
 Dynamic Email Analysis
-- 
+- Developed a dynamic email generator in Python using techniques like:
+- dynamic strings
+- conditional statements
+- lists
+- loops
+- a user-defined function
