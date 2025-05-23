@@ -1,10 +1,12 @@
 # Marketing Analyst
 
 ### Education
-Masters, MBA
+Masters in Marketing Analyst @ Hult Business School
+MBA in Marketing ()
+Bachelors in 
 
 ### Work Experince
-Marketing @ __
+Marketing @ 
 - work in short
 
 ### Projects
